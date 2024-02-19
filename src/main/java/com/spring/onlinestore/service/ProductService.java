@@ -1,11 +1,7 @@
 package com.spring.onlinestore.service;
 
-package com.yourcompany.ecommerce.service;
-
 import com.spring.onlinestore.model.Product;
 import com.spring.onlinestore.repository.ProductRepository;
-import com.yourcompany.ecommerce.model.Product;
-import com.yourcompany.ecommerce.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
