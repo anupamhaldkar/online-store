@@ -1,4 +1,4 @@
-package com.spring.onlinestore;
+package com.spring.onlinestore.controller;
 
 import com.spring.onlinestore.model.Product;
 import com.spring.onlinestore.service.ProductService;
